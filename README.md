@@ -7,7 +7,7 @@ I'm an aspiring cybersecurity specialist looking for my first role. I'm passiona
 - 🛠️ Core skills: Linux, TCP/IP, DNS/HTTP, Nmap, Wireshark, Burp Suite
 
 ### 🧪 Practical Labs & Projects *(in progress)*
-- network-recon-lab — Nmap port scanning & risk assessment report *(coming soon)*
+- [`network-recon-lab`](https://github.com/taisiadiakova/network-recon-lab) — Nmap port scanning & risk assessment report
 - pcap-traffic-investigation — Wireshark traffic analysis & anomaly hunting *(coming soon)*
 - web-security-writeups — PortSwigger & Burp Suite vulnerability write-ups *(coming soon)*
 
@@ -17,4 +17,5 @@ I'm an aspiring cybersecurity specialist looking for my first role. I'm passiona
 - [Cisco NetAcad — Badge 2](https://www.credly.com/badges/2214b7e6-ee3c-43bc-ab78-7d10c170452d)
 
 ### 🌎 Socials
-<a href=https://www.linkedin.com/in/таїсія-д-якова-75397520b/>LinkedIn</a>
+<a href=https://www.linkedin.com/in/таїсія-д-якова-75397520b/>LinkedIn</a> 
+
