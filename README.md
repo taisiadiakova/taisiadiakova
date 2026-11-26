@@ -8,7 +8,7 @@ I'm an aspiring cybersecurity specialist looking for my first role. I'm passiona
 
 ### 🧪 Practical Labs & Projects *(in progress)*
 - [`network-recon-lab`](https://github.com/taisiadiakova/network-recon-lab) — Nmap port scanning & risk assessment report
-- pcap-traffic-investigation — Wireshark traffic analysis & anomaly hunting *(coming soon)*
+- [`pcap-traffic-investigation`](https://github.com/taisiadiakova/pcap-traffic-investigation) — Wireshark traffic analysis & anomaly hunting
 - web-security-writeups — PortSwigger & Burp Suite vulnerability write-ups *(coming soon)*
 
 ### 📜 Key Certifications
